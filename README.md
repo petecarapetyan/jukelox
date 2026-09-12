@@ -1,3 +1,3 @@
 # walktown
 
-Not-nyt theme
+Walktown is an imaginary place
